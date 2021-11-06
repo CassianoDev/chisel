@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/CassianoDev/websocket"
 	"github.com/jpillora/backoff"
 	chshare "github.com/jpillora/chisel/share"
 	"github.com/jpillora/chisel/share/cnet"
