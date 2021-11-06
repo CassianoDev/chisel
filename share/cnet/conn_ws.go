@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/CassianoDev/websocket"
 )
 
 type wsConn struct {
