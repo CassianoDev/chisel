@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/CassianoDev/websocket"
 	chshare "github.com/jpillora/chisel/share"
 	"github.com/jpillora/chisel/share/ccrypto"
 	"github.com/jpillora/chisel/share/cio"
